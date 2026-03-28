@@ -6,14 +6,14 @@
             "bin": [
                 "arch_forge.exe"
             ],
-            "hash": "228800e8c23091656c282c3a04bc0699b2511473ef12a1e6671a962eb6db805f"
+            "hash": "1caaafa17f761a187a61e7a34a7f700c43afa422ba7e650cac94c5e370c67fe6"
         },
         "arm64": {
             "url": "https://github.com/arch-forge/cli/releases/download/v1.0.0/cli_1.0.0_windows_arm64.zip",
             "bin": [
                 "arch_forge.exe"
             ],
-            "hash": "f10e8deaaff02ca8cffabf9e2a386c20568fb2ebc5a4fe8bf626d242f7089395"
+            "hash": "0b89468c8622e9cc20d2533dbbf4e702bab47e6a0f8a16f516ff9e35809465c9"
         }
     },
     "homepage": "https://github.com/arch-forge/cli",
