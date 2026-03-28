@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/arch-forge/cli/releases/download/v1.0.0/cli_1.0.0_windows_amd64.zip",
+            "bin": [
+                "arch_forge.exe"
+            ],
+            "hash": "228800e8c23091656c282c3a04bc0699b2511473ef12a1e6671a962eb6db805f"
+        },
+        "arm64": {
+            "url": "https://github.com/arch-forge/cli/releases/download/v1.0.0/cli_1.0.0_windows_arm64.zip",
+            "bin": [
+                "arch_forge.exe"
+            ],
+            "hash": "f10e8deaaff02ca8cffabf9e2a386c20568fb2ebc5a4fe8bf626d242f7089395"
+        }
+    },
+    "homepage": "https://github.com/arch-forge/cli",
+    "license": "MIT",
+    "description": "Generate Go project structures based on proven architectural patterns"
+}
